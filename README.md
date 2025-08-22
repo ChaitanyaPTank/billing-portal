@@ -17,5 +17,5 @@ learning ground to test knowledge and decisions.
 
 
 > [!NOTE]
-> You need to have gcc to zig installed as sqlite driver requires to be compiled
-> If using zig run with `CC="zig cc CGO_ENABLED=1 go run ./cmd/web/`
+> You need to have gcc to zig installed as sqlite driver requires to be compiled.
+> If using zig, run with `CC="zig cc" CGO_ENABLED=1 go run ./cmd/web/`
